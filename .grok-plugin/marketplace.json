@@ -405,16 +405,8 @@
         "path": "./external_plugins/ternivo-connect"
       },
       "homepage": "https://ternivo.app/social-delivery",
-      "keywords": [
-        "ternivo",
-        "ternivo connect",
-        "ternivo social publishing",
-        "ternivo mcp"
-      ],
-      "domains": [
-        "ternivo.app",
-        "app.ternivo.app"
-      ]
+      "keywords": ["ternivo", "ternivo connect", "ternivo social publishing", "ternivo mcp"],
+      "domains": ["ternivo.app", "app.ternivo.app"]
     }
   ]
 }
